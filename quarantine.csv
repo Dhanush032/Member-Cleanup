@@ -1,0 +1,5 @@
+name,email,signup_date,plan,notes
+Doe, John,john.doe@gmail.com,2023-01-20,Plan B
+Test User,test@test.com,2023-05-01,Plan A,IGNORE THIS
+Jane Smith,jane.smith@yahoo.com,,Plan B,Interested in keto
+Bob,bob@outlook.com,,Plan A,
